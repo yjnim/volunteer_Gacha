@@ -1,0 +1,27 @@
+#div_name {
+    width: 200px;
+    float: left;
+    margin: 0 30px 0 0;
+}
+
+#div_result {
+    width: 250px;
+    float: left;
+    text-align: center;
+}
+
+legend {
+    text-align: left;
+}
+
+p {
+    margin: 2px 0 2px 0;
+}
+
+ol {
+    text-align: left;
+}
+
+ul {
+    list-style-type: none;
+}

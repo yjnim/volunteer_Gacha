@@ -1,1 +1,4 @@
-# volunteer_Gacha
+# 봉사자 랜덤배정 프로그램
+
+사용 언어 : JavaScript
+작성일 : 2020년 3월 5일
